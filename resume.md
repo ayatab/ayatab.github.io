@@ -1,3 +1,5 @@
+![Ayata's Profile Pic](https://wallpapers-clan.com/wp-content/uploads/2022/07/funny-cat-22.jpg)
+
 # Ayata Bernhardt
 
 **My LinkedIn:** https://www.linkedin.com/in/ayata-bernhardt/
@@ -14,10 +16,10 @@ I am a data science student interested in back-end and cloud programming. I will
 
 ### Relevant Courses:
 
-- INFO 200
-- INFO 201
-- GEOG 360
-- INFO 340
+- `INFO 200`
+- `INFO 201`
+- `GEOG 360`
+- `INFO 340`
 
 ## Work Experience (Last 10 years)
 
@@ -31,3 +33,4 @@ I am a data science student interested in back-end and cloud programming. I will
 *Japanese Student Association* (October 2021 - Current)
 
 - Work to spread Japanese culture to people who would like to learn about Japanese culture and/or interested in connecting with Japanese culture.
+- https://jsauw.com/
