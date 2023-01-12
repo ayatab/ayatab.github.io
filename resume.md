@@ -12,14 +12,14 @@ I am a data science student interested in back-end and cloud programming. I will
 
 ### University of Washington (Seattle, Washington)
 
-* [University of Washington](https://www.washington.edu/): Public university institution in Washington state.
+> [University of Washington](https://www.washington.edu/): Public university institution in Washington state.
 
 ### Relevant Courses:
 
-- `INFO 200`
-- `INFO 201`
-- `GEOG 360`
-- `INFO 340`
+- >INFO 200
+- >INFO 201
+- >GEOG 360
+- >INFO 340
 
 ## Work Experience (Last 10 years)
 
